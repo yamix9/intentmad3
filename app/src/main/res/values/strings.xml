@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="my_App">My Application</string>
+    <string name="tvno1">Number 1</string>
+    <string name="tvno2">Number 2</string>
+    <string name="btnOk">OK</string>
+    <string name="plus">+</string>
+    <string name="substract">-</string>
+    <string name="multi">*</string>
+    <string name="divide">/</string>
+    <string name="cal">Calculator</string>
+</resources>
